@@ -69,7 +69,7 @@ yarn dev
 
 ## Getting started with Docker and Docker Hub🐋
 
-1. Go to [Analytx-Backend](https://github.com/Lordhacker756/analytx) and simply run `docker-compose up -d`. The app will be available on `http://localhost:3000`
+1. Go to [Analytx-Backend](https://github.com/margamvinay7/analytxServer) and simply run `docker-compose up -d`. The app will be available on `http://localhost:3000`
 
 2. You can also build the image locally using the command `npm run build-image` and then run `docker-compose up -d` in the backend.
 
@@ -77,6 +77,3 @@ yarn dev
 
 Contributions to Analytx Frontend are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue on the GitHub repository.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
