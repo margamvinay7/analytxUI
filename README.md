@@ -43,7 +43,7 @@ To run Analytx Frontend locally, follow these steps:
 2. Navigate to the project directory.
 
 ```bash
-git clone https://github.com/Lordhacker756/analytx-frontend
+git clone https://github.com/margamvinay7/analytxUI
 cd analytx-frontend
 ```
 
